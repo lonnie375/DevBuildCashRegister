@@ -27,6 +27,22 @@ namespace Register_test
         }
 
         [Fact]
+        public void TestGrandTotal1()
+        {
+            List<Product> products = new List<Product>();
+
+            Product firstList = new Product("Mustang", 45999.55m);
+            Product secondItem = new Product("Ferrari", 100999.75m);
+            products.Add(firstList);
+            products.Add(secondItem);
+
+            decimal actual = CashRegister.GrandTotal(products);
+            decimal expected = 146999.30m;
+            Assert.Equal(expected, actual);
+
+        }
+
+        [Fact]
         public void TestGrandTotal2()
         {
             List<Product>products = new List<Product>();
@@ -48,6 +64,19 @@ namespace Register_test
 
             decimal actual = CashRegister.CalculateTax(products);
             decimal expected = 0.66m;
+            Assert.Equal(expected, actual);
+        }
+        [Fact]
+        public void TestCalcTax1()
+        {
+            List<Product> products = new List<Product>();
+            Product firstList = new Product("MackBookPro", 1299.99m);
+            Product secondItem = new Product("DellXPS", 1100.99m);
+            products.Add(firstList);
+            products.Add(secondItem);
+
+            decimal actual = CashRegister.CalculateTax(products);
+            decimal expected = 144.0588m;
             Assert.Equal(expected, actual);
         }
 
