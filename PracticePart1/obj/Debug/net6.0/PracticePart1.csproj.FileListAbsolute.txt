@@ -1,0 +1,15 @@
+C:\Users\ljohnson3\source\repos\Week5\PracticePart1\obj\Debug\net6.0\PracticePart1.csproj.AssemblyReference.cache
+C:\Users\ljohnson3\source\repos\Week5\PracticePart1\obj\Debug\net6.0\PracticePart1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ljohnson3\source\repos\Week5\PracticePart1\obj\Debug\net6.0\PracticePart1.AssemblyInfoInputs.cache
+C:\Users\ljohnson3\source\repos\Week5\PracticePart1\obj\Debug\net6.0\PracticePart1.AssemblyInfo.cs
+C:\Users\ljohnson3\source\repos\Week5\PracticePart1\obj\Debug\net6.0\PracticePart1.csproj.CoreCompileInputs.cache
+C:\Users\ljohnson3\source\repos\Week5\PracticePart1\bin\Debug\net6.0\PracticePart1.exe
+C:\Users\ljohnson3\source\repos\Week5\PracticePart1\bin\Debug\net6.0\PracticePart1.deps.json
+C:\Users\ljohnson3\source\repos\Week5\PracticePart1\bin\Debug\net6.0\PracticePart1.runtimeconfig.json
+C:\Users\ljohnson3\source\repos\Week5\PracticePart1\bin\Debug\net6.0\PracticePart1.dll
+C:\Users\ljohnson3\source\repos\Week5\PracticePart1\bin\Debug\net6.0\PracticePart1.pdb
+C:\Users\ljohnson3\source\repos\Week5\PracticePart1\obj\Debug\net6.0\PracticePart1.dll
+C:\Users\ljohnson3\source\repos\Week5\PracticePart1\obj\Debug\net6.0\refint\PracticePart1.dll
+C:\Users\ljohnson3\source\repos\Week5\PracticePart1\obj\Debug\net6.0\PracticePart1.pdb
+C:\Users\ljohnson3\source\repos\Week5\PracticePart1\obj\Debug\net6.0\PracticePart1.genruntimeconfig.cache
+C:\Users\ljohnson3\source\repos\Week5\PracticePart1\obj\Debug\net6.0\ref\PracticePart1.dll
